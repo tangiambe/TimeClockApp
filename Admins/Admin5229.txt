@@ -1,0 +1,17 @@
+Wednesday, September 14, 2022
+	Shift Started --> 09:05:12 PM
+Wednesday, September 14, 2022
+	Shift Started --> 09:05:13 PM
+	Break Started --> 09:05:16 PM
+	Shift Ended --> 09:05:18 PM
+
+Wednesday, September 14, 2022
+	Shift Started --> 09:05:22 PM
+	Lunch Ended --> 09:05:27 PM
+Friday, September 16, 2022
+	Shift Started --> 01:25:00 PM
+Friday, September 16, 2022
+	Shift Started --> 01:25:03 PM
+	Break Started --> 01:25:06 PM
+	Lunch Started --> 01:25:09 PM
+	Lunch Started --> 01:25:11 PM
